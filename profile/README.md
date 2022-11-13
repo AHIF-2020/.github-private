@@ -1,4 +1,4 @@
-# Personal Organisation for the 3AHIF (2022/2021)
+# Organisation for the 3AHIF (2022/2023)
 
 ## Classes
 
