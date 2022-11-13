@@ -1,4 +1,6 @@
-# Organisation for the 3AHIF (2022/2023)
+# 3AHIF (2022/2023)
+
+Private organisation for the 3AHIF of the Higher Technical College Leonding.
 
 ## Classes
 
